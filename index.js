@@ -132,7 +132,7 @@ Siz endi yopiq imkoniyatlarga kirish huquqini qo'lga kiritdingiz.
       [
         Markup.button.url(
           "🚀 Bepul Tayyorlanishni Boshlash",
-          "https://english.onrender.com"
+          "https://englih.onrender.com"
         )
       ]
     ])
